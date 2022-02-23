@@ -1,4 +1,4 @@
-[![Shen0000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shen0000&show_icons=true&theme=tokyonights)](https://github.com/Shen0000/github-readme-stats)
+[![Shen0000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shen0000&show_icons=true&theme=tokyonight)](https://github.com/Shen0000/github-readme-stats)
 
 <!--
 **Shen0000/Shen0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
